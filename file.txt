@@ -1,0 +1,222 @@
+{
+  "steps_count": [
+    {
+      "value": 257,
+      "startTimeMillis": "1644311416366",
+      "endTimeMillis": "1644397816366",
+      "startTime": "08 Feb 2022 09:10 am",
+      "endTime": "09 Feb 2022 09:10 am"
+    },
+    {
+      "value": 894,
+      "startTimeMillis": "1644397816366",
+      "endTimeMillis": "1644484216366",
+      "startTime": "09 Feb 2022 09:10 am",
+      "endTime": "10 Feb 2022 09:10 am"
+    },
+    {
+      "value": 261,
+      "startTimeMillis": "1644484216366",
+      "endTimeMillis": "1644570616366",
+      "startTime": "10 Feb 2022 09:10 am",
+      "endTime": "11 Feb 2022 09:10 am"
+    },
+    {
+      "value": 295,
+      "startTimeMillis": "1644570616366",
+      "endTimeMillis": "1644657016366",
+      "startTime": "11 Feb 2022 09:10 am",
+      "endTime": "12 Feb 2022 09:10 am"
+    },
+    {
+      "value": 944,
+      "startTimeMillis": "1644657016366",
+      "endTimeMillis": "1644743416366",
+      "startTime": "12 Feb 2022 09:10 am",
+      "endTime": "13 Feb 2022 09:10 am"
+    },
+    {
+      "value": 826,
+      "startTimeMillis": "1644743416366",
+      "endTimeMillis": "1644829816366",
+      "startTime": "13 Feb 2022 09:10 am",
+      "endTime": "14 Feb 2022 09:10 am"
+    },
+    {
+      "value": 169,
+      "startTimeMillis": "1644829816366",
+      "endTimeMillis": "1644883201000",
+      "startTime": "14 Feb 2022 09:10 am",
+      "endTime": "15 Feb 2022 12:00 am"
+    }
+  ],
+  "active_minutes": [
+    {
+      "value": 2,
+      "startTimeMillis": "1644311416366",
+      "endTimeMillis": "1644397816366",
+      "startTime": "08 Feb 2022 09:10 am",
+      "endTime": "09 Feb 2022 09:10 am"
+    },
+    {
+      "value": 9,
+      "startTimeMillis": "1644397816366",
+      "endTimeMillis": "1644484216366",
+      "startTime": "09 Feb 2022 09:10 am",
+      "endTime": "10 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1,
+      "startTimeMillis": "1644484216366",
+      "endTimeMillis": "1644570616366",
+      "startTime": "10 Feb 2022 09:10 am",
+      "endTime": "11 Feb 2022 09:10 am"
+    },
+    {
+      "value": 9,
+      "startTimeMillis": "1644657016366",
+      "endTimeMillis": "1644743416366",
+      "startTime": "12 Feb 2022 09:10 am",
+      "endTime": "13 Feb 2022 09:10 am"
+    },
+    {
+      "value": 11,
+      "startTimeMillis": "1644743416366",
+      "endTimeMillis": "1644829816366",
+      "startTime": "13 Feb 2022 09:10 am",
+      "endTime": "14 Feb 2022 09:10 am"
+    }
+  ],
+  "calories_expended": [
+    {
+      "value": 1697,
+      "startTimeMillis": "1644311416366",
+      "endTimeMillis": "1644397816366",
+      "startTime": "08 Feb 2022 09:10 am",
+      "endTime": "09 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1726,
+      "startTimeMillis": "1644397816366",
+      "endTimeMillis": "1644484216366",
+      "startTime": "09 Feb 2022 09:10 am",
+      "endTime": "10 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1697,
+      "startTimeMillis": "1644484216366",
+      "endTimeMillis": "1644570616366",
+      "startTime": "10 Feb 2022 09:10 am",
+      "endTime": "11 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1697,
+      "startTimeMillis": "1644570616366",
+      "endTimeMillis": "1644657016366",
+      "startTime": "11 Feb 2022 09:10 am",
+      "endTime": "12 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1735,
+      "startTimeMillis": "1644657016366",
+      "endTimeMillis": "1644743416366",
+      "startTime": "12 Feb 2022 09:10 am",
+      "endTime": "13 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1717,
+      "startTimeMillis": "1644743416366",
+      "endTimeMillis": "1644829816366",
+      "startTime": "13 Feb 2022 09:10 am",
+      "endTime": "14 Feb 2022 09:10 am"
+    },
+    {
+      "value": 1049,
+      "startTimeMillis": "1644829816366",
+      "endTimeMillis": "1644883201000",
+      "startTime": "14 Feb 2022 09:10 am",
+      "endTime": "15 Feb 2022 12:00 am"
+    }
+  ],
+  "heart_minutes": [
+    {
+      "value": 3,
+      "startTimeMillis": "1644397816366",
+      "endTimeMillis": "1644484216366",
+      "startTime": "09 Feb 2022 09:10 am",
+      "endTime": "10 Feb 2022 09:10 am"
+    },
+    {
+      "value": 3,
+      "startTimeMillis": "1644657016366",
+      "endTimeMillis": "1644743416366",
+      "startTime": "12 Feb 2022 09:10 am",
+      "endTime": "13 Feb 2022 09:10 am"
+    },
+    {
+      "value": 5,
+      "startTimeMillis": "1644743416366",
+      "endTimeMillis": "1644829816366",
+      "startTime": "13 Feb 2022 09:10 am",
+      "endTime": "14 Feb 2022 09:10 am"
+    }
+  ],
+  "activity_summary": [
+    {
+      "value": 440512,
+      "startTimeMillis": "1644397816366",
+      "endTimeMillis": "1644484216366",
+      "startTime": "09 Feb 2022 09:10 am",
+      "endTime": "10 Feb 2022 09:10 am"
+    },
+    {
+      "value": 584520,
+      "startTimeMillis": "1644657016366",
+      "endTimeMillis": "1644743416366",
+      "startTime": "12 Feb 2022 09:10 am",
+      "endTime": "13 Feb 2022 09:10 am"
+    },
+    {
+      "value": 307022,
+      "startTimeMillis": "1644743416366",
+      "endTimeMillis": "1644829816366",
+      "startTime": "13 Feb 2022 09:10 am",
+      "endTime": "14 Feb 2022 09:10 am"
+    },
+    {
+      "value": 401407,
+      "startTimeMillis": "1644829816366",
+      "endTimeMillis": "1644883201000",
+      "startTime": "14 Feb 2022 09:10 am",
+      "endTime": "15 Feb 2022 12:00 am"
+    }
+  ]
+}
+
+'active_minutes': [
+  {'value': 29, 'startTimeMillis': '1650394853181', 'endTimeMillis': '1650481253181', 'startTime': '19 Apr 2022 07:00 pm', 'endTime': '20 Apr 2022 07:00 pm'},
+  {'value': 67, 'startTimeMillis': '1650481253181', 'endTimeMillis': '1650567653181', 'startTime': '20 Apr 2022 07:00 pm', 'endTime': '21 Apr 2022 07:00 pm'}, 
+  {'value': 20, 'startTimeMillis': '1650654053181', 'endTimeMillis': '1650740453181', 'startTime': '22 Apr 2022 07:00 pm', 'endTime': '23 Apr 2022 07:00 pm'}, 
+  {'value': 58, 'startTimeMillis': '1650826853181', 'endTimeMillis': '1650913253181', 'startTime': '24 Apr 2022 07:00 pm', 'endTime': '25 Apr 2022 07:00 pm'}]
+
+  'calories_expended': [
+    {'value': 1405, 'startTimeMillis': '1650394853181', 'endTimeMillis': '1650481253181', 'startTime': '19 Apr 2022 07:00 pm', 'endTime': '20 Apr 2022 07:00 pm'}, 
+  {'value': 1405, 'startTimeMillis': '1650481253181', 'endTimeMillis': '1650567653181', 'startTime': '20 Apr 2022 07:00 pm', 'endTime': '21 Apr 2022 07:00 pm'}, 
+  {'value': 1402, 'startTimeMillis': '1650567653181', 'endTimeMillis': '1650654053181', 'startTime': '21 Apr 2022 07:00 pm', 'endTime': '22 Apr 2022 07:00 pm'}, 
+  {'value': 1402, 'startTimeMillis': '1650654053181', 'endTimeMillis': '1650740453181', 'startTime': '22 Apr 2022 07:00 pm', 'endTime': '23 Apr 2022 07:00 pm'}, 
+  {'value': 1402, 'startTimeMillis': '1650740453181', 'endTimeMillis': '1650826853181', 'startTime': '23 Apr 2022 07:00 pm', 'endTime': '24 Apr 2022 07:00 pm'}, 
+  {'value': 1498, 'startTimeMillis': '1650826853181', 'endTimeMillis': '1650913253181', 'startTime': '24 Apr 2022 07:00 pm', 'endTime': '25 Apr 2022 07:00 pm'}, 
+  {'value': 323, 'startTimeMillis': '1650913253181', 'endTimeMillis': '1650931201000', 'startTime': '25 Apr 2022 07:00 pm', 'endTime': '26 Apr 2022 12:00 am'}],
+
+  'heart_minutes': [{'value': 14, 'startTimeMillis': '1650481253181', 'endTimeMillis': '1650567653181', 'startTime': '20 Apr 2022 07:00 pm', 'endTime': '21 Apr 2022 07:00 pm'}, 
+  {'value': 1, 'startTimeMillis': '1650826853181', 'endTimeMillis': '1650913253181', 'startTime': '24 Apr 2022 07:00 pm', 'endTime': '25 Apr 2022 07:00 pm'}]
+
+
+  'activity_summary': [{'value': 47052, 'startTimeMillis': '1650394853181', 'endTimeMillis': '1650481253181', 'startTime': '19 Apr 2022 07:00 pm', 'endTime': '20 Apr 2022 07:00 pm'}, 
+  {'value': 1565338, 'startTimeMillis': '1650481253181', 'endTimeMillis': '1650567653181', 'startTime': '20 Apr 2022 07:00 pm', 'endTime': '21 Apr 2022 07:00 pm'}, 
+  {'value': 379716, 'startTimeMillis': '1650826853181', 'endTimeMillis': '1650913253181', 'startTime': '24 Apr 2022 07:00 pm', 'endTime': '25 Apr 2022 07:00 pm'}]}
+
+  [{'value': 29, 'startTimeMillis': '1650394853181', 'endTimeMillis': '1650481253181', 'startTime': '19 Apr 2022 07:00 pm', 'endTime': '20 Apr 2022 07:00 pm'}, 
+  {'value': 67, 'startTimeMillis': '1650481253181', 'endTimeMillis': '1650567653181', 'startTime': '20 Apr 2022 07:00 pm', 'endTime': '21 Apr 2022 07:00 pm'}, 
+  {'value': 20, 'startTimeMillis': '1650654053181', 'endTimeMillis': '1650740453181', 'startTime': '22 Apr 2022 07:00 pm', 'endTime': '23 Apr 2022 07:00 pm'}, 
+  {'value': 58, 'startTimeMillis': '1650826853181', 'endTimeMillis': '1650913253181', 'startTime': '24 Apr 2022 07:00 pm', 'endTime': '25 Apr 2022 07:00 pm'}]

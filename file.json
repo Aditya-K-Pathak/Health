@@ -1,0 +1,20 @@
+{
+    "username":{
+        "time":{
+            "lat":"latitude",
+            "long":"longitude",
+            "loc":"Current_Location_Name",
+            "PIN":"PIN_Code",
+            "Carrier_Name":"Operator_Name",
+            "IP":"Ip_Address",
+            "Health_Data":{
+                "Heart_Rate":"Health_Rate",
+                "Pulse_Rate":"Pulse_Rate"
+            }
+        },
+        "habbit_name":{
+            "time":"time"
+        }
+    }
+}
+
